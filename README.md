@@ -21,10 +21,3 @@ This is a simple chat application that allows multiple clients to connect to a s
 ## Dependencies
 
 This program requires Python 3.x and the `socket` library.
-
-## Contributors
-
-- [Your Name]
-
-Feel free to contribute to this project by submitting pull requests or reporting issues.
-
